@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe!
+# 😉 Olá, eu sou o Felipe!
 
 <!--
 **felipecmacedo/felipecmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
