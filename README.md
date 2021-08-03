@@ -1,5 +1,7 @@
 # 😉 Olá, eu sou o Felipe Macedo!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecmacedo)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **felipecmacedo/felipecmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
