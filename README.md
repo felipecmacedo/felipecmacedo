@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecmacedo&show_icons=true&theme=synthwave)
 
+![Snake animation](https://github.com/felipecmacedo/felipecmacedo/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **felipecmacedo/felipecmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
