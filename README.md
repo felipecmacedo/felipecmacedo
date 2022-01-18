@@ -1,5 +1,8 @@
 # 😉 Olá, eu sou o Felipe Macedo!
 
+Estudante de Análise e Desenvolvimento de Sistemas <br>
+Aprendiz na linguagem C#
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecmacedo&show_icons=true&theme=synthwave)
 
 ![Snake animation](https://github.com/felipecmacedo/felipecmacedo/blob/output/github-contribution-grid-snake.svg)
@@ -18,6 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Estudante de Análise e Desenvolvimento de sistemas.
-Aprendiz da linguagem C#
