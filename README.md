@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Estudante de Análise e Desenvolvimento de sistemas.
+Aprendiz da linguagem C#
