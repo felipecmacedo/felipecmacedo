@@ -1,4 +1,4 @@
-# 😉 Olá, eu sou o Felipe Macedo!
+# 😉 Olá, eu sou o Felipe Cimardi Macedo!
 
 Estudante de Análise e Desenvolvimento de Sistemas <br>
 Aprendiz na linguagem C#
