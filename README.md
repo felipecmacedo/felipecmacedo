@@ -1,4 +1,4 @@
-# 😉 Olá, eu sou o Felipe Cimardi Macedo!
+# Olá, eu sou o Felipe Cimardi Macedo! 😉
 
 Estudante de Análise e Desenvolvimento de Sistemas <br>
 
