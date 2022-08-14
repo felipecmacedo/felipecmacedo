@@ -1,7 +1,8 @@
 # 😉 Olá, eu sou o Felipe Cimardi Macedo!
 
 Estudante de Análise e Desenvolvimento de Sistemas <br>
-Aprendiz na linguagem C#
+
+<!-- Aprendiz na linguagem C# -->
 
 C# Dev
 
