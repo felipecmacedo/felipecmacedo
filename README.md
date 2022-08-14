@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas <br>
 
 <!-- Aprendiz na linguagem C# -->
 
-C# Dev
+<!-- C# Dev -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecmacedo&show_icons=true&theme=synthwave) -->
 
