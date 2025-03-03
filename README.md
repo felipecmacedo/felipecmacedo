@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Cimardi Macedo! 😉
 
-Estudante de Análise e Desenvolvimento de Sistemas <br>
+Desenvolvedor C#, SQL Server, .NET Framework <br>
 
 <!-- Aprendiz na linguagem C# -->
 
